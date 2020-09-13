@@ -1,0 +1,33 @@
+asserts - indicam se o resultado coincide com o esperado
+asserarrayequals:  comparacao textp arrays
+assereaquals: string
+asserfalse: verificação de validacao
+assertnotnull: garantir se objeto nao estao null
+assert null: gariantir que objeto em deterinado momento
+assertnotsame: verifica se objetos nao sao os mesmos
+assertsame: verifica se objetos sao os mesmos
+assertrue:(ex:verfica se arquivo foi criado)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tipos: primitivo, objects, array]
+
+
+
+rules - componente intercepta uma chamada para um metodo de teste, permite que faca algo antes ou apos o metodo rodar
+
+
+
+
