@@ -1,0 +1,15 @@
+package br.com.calculadora.teste;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ts {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+	
+
+}

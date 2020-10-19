@@ -14,5 +14,14 @@ public class CalculadoraTest {
 		int soma = calc.somar("1+1+3");
 		assertEquals(5, soma);
 	}
+	
+	@Test
+	public void testeSomarMock() {
+		//Calculadora calc = mock (Calculadora.class);
+		
+		
+		
+		
+	}
 
 }

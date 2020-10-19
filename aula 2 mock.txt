@@ -1,0 +1,13 @@
+mock : objetos simulados
+
+limitaoes: comportamento atrelado ao objeto
+
+mockito: framework deste java, produzido em cima do eazymock
+easymock: primeiro gerador de mock, primeira versão
+
+powermockito: api extensao do mockito, supera limitacoes
+
+hamcrest: framework utilizado para testes unitarios
+
+assertj: permites escrever assert de mais facil compreensao
+

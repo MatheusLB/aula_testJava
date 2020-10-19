@@ -20,5 +20,7 @@ public class AssertTest {
 	public void testAssertEquals() {
         assertEquals("texto","texto");
 	}
+	
+	
 
 }
